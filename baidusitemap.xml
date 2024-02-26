@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kevinwu.cc/posts/AtomicHabits/</loc>
-    <lastmod>2023-11-23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/performance/</loc>
-    <lastmod>2023-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/BuildBlog/</loc>
-    <lastmod>2023-10-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/3dm/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/DeepFoundation/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/DuckChat/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/FairyTales/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/FighterDuck/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/HtmlNotes/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/LinkList/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL1/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL2/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL3/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
     <loc>https://www.kevinwu.cc/posts/RectMans/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
   </url>
   <url>
     <loc>https://www.kevinwu.cc/posts/SDLgame/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
   </url>
   <url>
     <loc>https://www.kevinwu.cc/posts/SievePrime/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
   </url>
   <url>
     <loc>https://www.kevinwu.cc/posts/Sort/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/gcd/</loc>
-    <lastmod>2023-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kevinwu.cc/posts/highPrecision/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
   </url>
   <url>
     <loc>https://www.kevinwu.cc/posts/code/</loc>
-    <lastmod>2023-10-08</lastmod>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/gcd/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/highPrecision/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/performance/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/3dm/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/AtomicHabits/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/BuildBlog/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/DeepFoundation/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/DuckChat/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/FairyTales/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/FighterDuck/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/HtmlNotes/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/LinkList/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL1/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL2/</loc>
+    <lastmod>2024-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL3/</loc>
+    <lastmod>2024-02-26</lastmod>
   </url>
 </urlset> 

@@ -2,144 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kevinwu.cc/secret/index.html</loc>
-    
-    <lastmod>2024-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/AtomicHabits/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/about/index.html</loc>
-    
-    <lastmod>2023-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/performance/</loc>
-    
-    <lastmod>2023-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/BuildBlog/</loc>
-    
-    <lastmod>2023-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/3dm/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/DeepFoundation/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/DuckChat/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/FairyTales/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/FighterDuck/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/HtmlNotes/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/LinkList/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL1/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL2/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/OpenGL3/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kevinwu.cc/posts/RectMans/</loc>
     
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +13,7 @@
   <url>
     <loc>https://www.kevinwu.cc/posts/SDLgame/</loc>
     
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +22,7 @@
   <url>
     <loc>https://www.kevinwu.cc/posts/SievePrime/</loc>
     
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,25 +31,7 @@
   <url>
     <loc>https://www.kevinwu.cc/posts/Sort/</loc>
     
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/gcd/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/posts/highPrecision/</loc>
-    
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,43 +40,52 @@
   <url>
     <loc>https://www.kevinwu.cc/posts/code/</loc>
     
-    <lastmod>2023-10-08</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.kevinwu.cc/link/index.html</loc>
+    <loc>https://www.kevinwu.cc/posts/gcd/</loc>
     
-    <lastmod>2023-10-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kevinwu.cc/articles/archives/index.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.kevinwu.cc/articles/categories/index.html</loc>
+    <loc>https://www.kevinwu.cc/posts/highPrecision/</loc>
     
-    <lastmod>2023-05-26</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.kevinwu.cc/articles/tags/index.html</loc>
+    <loc>https://www.kevinwu.cc/posts/performance/</loc>
     
-    <lastmod>2023-05-26</lastmod>
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/about/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/equipment/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -238,7 +94,52 @@
   <url>
     <loc>https://www.kevinwu.cc/essay/index.html</loc>
     
-    <lastmod>2023-05-23</lastmod>
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/link/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/secret/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/articles/archives/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/articles/categories/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/articles/tags/index.html</loc>
+    
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -247,7 +148,7 @@
   <url>
     <loc>https://www.kevinwu.cc/box/ac/index.html</loc>
     
-    <lastmod>2023-05-23</lastmod>
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -256,7 +157,115 @@
   <url>
     <loc>https://www.kevinwu.cc/box/game/index.html</loc>
     
-    <lastmod>2023-05-23</lastmod>
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/3dm/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/AtomicHabits/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/BuildBlog/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/DeepFoundation/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/DuckChat/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/FairyTales/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/FighterDuck/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/HtmlNotes/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/LinkList/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL1/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL2/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kevinwu.cc/posts/OpenGL3/</loc>
+    
+    <lastmod>2024-02-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -265,7 +274,7 @@
 
   <url>
     <loc>https://www.kevinwu.cc/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -273,140 +282,140 @@
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E5%B9%B2%E8%B4%A7/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E4%B9%A6/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/Hexo/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/C/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/Qt/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/TCP/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/HTML/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E9%93%BE%E8%A1%A8/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/OpenGL/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/SDL2/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E7%AD%9B%E8%B4%A8%E6%95%B0/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E7%BC%96%E7%A0%81/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/gcd/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -415,35 +424,35 @@
   
   <url>
     <loc>https://www.kevinwu.cc/articles/categories/%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kevinwu.cc/articles/categories/%E4%BB%A3%E7%A0%81%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
